@@ -1,1 +1,1 @@
-# ModLoaderMods
+# Hedge Mod Manager Mods
